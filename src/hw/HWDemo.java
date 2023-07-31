@@ -9,4 +9,6 @@ public class HWDemo {
 		
 		System.out.println("my name is rohullah");
 	}
+	public static void add( int a, int b) {
+		system.out.println(a+b);
 }
