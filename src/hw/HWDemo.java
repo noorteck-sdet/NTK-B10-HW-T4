@@ -11,6 +11,8 @@ public class HWDemo {
 		
 		System.out.println("Hey guy, this is Khwaja, i just did my HW part, sorry guys coudnt"
 				+ " communicated over the whatsApp as i am busy moving to a new address");
+		
+		System.out.println("First git homework");
 	}
 	public static void add( int a, int b) {
 		System.out.println(a+b);
