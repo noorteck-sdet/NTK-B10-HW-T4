@@ -13,5 +13,11 @@ public class HWDemo {
 				+ " communicated over the whatsApp as i am busy moving to a new address");
 	}
 	public static void add( int a, int b) {
-		system.out.println(a+b);
+		System.out.println(a+b);
+		
+	}
+	public void getInfo() {
+		System.out.println("Nahom aka noah...");
+	}
+	
 }
