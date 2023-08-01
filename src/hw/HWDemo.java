@@ -22,4 +22,11 @@ public class HWDemo {
 		System.out.println("Nahom aka noah...");
 	}
 	
+	public void getInfo1() {
+		System.out.println("Rohullah pushed again");
+	}
+	
+		System.out.println(a+b);
+		
+		System.out.println("Second time pushing ");
 }
