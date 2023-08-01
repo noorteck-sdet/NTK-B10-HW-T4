@@ -13,9 +13,7 @@ public class HWDemo {
 				+ " communicated over the whatsApp as i am busy moving to a new address");
 		
 		System.out.println("First git homework");
-	}
-	public static void add( int a, int b) {
-		System.out.println(a+b);
+	
 		
 	}
 	public void getInfo() {
@@ -26,9 +24,10 @@ public class HWDemo {
 		System.out.println("Rohullah pushed again");
 	}
 	
-		System.out.println(a+b);
+		
 		
 		System.out.println("Second time pushing ");
 		
 		System.out.println("Khaja Second push");
+}
 }
